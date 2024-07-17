@@ -1,2 +1,2 @@
 alpine
-milvusdb/milvus:2.4-20240716-9cf1f03e-amd64
+milvus:2.4-20240716-9cf1f03e-amd64
