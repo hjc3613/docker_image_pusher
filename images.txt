@@ -1,2 +1,1 @@
-milvusdb
-milvus:2.4-20240716-9cf1f03e-amd64
+milvusdb/milvus:2.4-20240716-edefc3cb-amd64
