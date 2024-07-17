@@ -1,4 +1,4 @@
 milvusdb
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-milvus:2.4-20240716-9cf1f03e-amd64
+milvusdb/milvus:2.4-20240716-9cf1f03e-amd64
 --platform=linux/amd64 hjc_docker_hub/milvus
