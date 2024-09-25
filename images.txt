@@ -5,12 +5,14 @@
 # xprobe/xinference:latest
 
 # dify
-langgenius/dify-api:0.7.3
-postgres:15-alpine
-nginx:latest
-redis:6-alpine
-langgenius/dify-sandbox:0.2.6
-ubuntu/squid:latest
-semitechnologies/weaviate:1.19.0
-langgenius/dify-web:0.7.3
-langgenius/dify-api:0.7.3
+#langgenius/dify-api:0.7.3
+#postgres:15-alpine
+#nginx:latest
+#redis:6-alpine
+#langgenius/dify-sandbox:0.2.6
+#ubuntu/squid:latest
+#semitechnologies/weaviate:1.19.0
+#langgenius/dify-web:0.7.3
+#langgenius/dify-api:0.7.3
+
+continuumio/miniconda3
