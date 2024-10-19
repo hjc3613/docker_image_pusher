@@ -15,4 +15,6 @@
 #langgenius/dify-web:0.7.3
 #langgenius/dify-api:0.7.3
 
-continuumio/miniconda3
+#continuumio/miniconda3
+
+nvidia/cuda:11.4.0-base-ubuntu20.04
