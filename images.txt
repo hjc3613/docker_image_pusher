@@ -4,7 +4,8 @@
 # ghcr.io/huggingface/text-embeddings-inference:1.5
 # xprobe/xinference:latest
 # nvidia/cuda:12.2.0-devel-ubuntu22.04
-nvcr.io/nvidia/tritonserver:24.12-trtllm-python-py3
+# nvcr.io/nvidia/tritonserver:24.12-trtllm-python-py3
+docker pull vllm/vllm-openai:v0.8.5.post1
 
 # dify
 #langgenius/dify-api:0.7.3
