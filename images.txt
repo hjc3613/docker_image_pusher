@@ -5,7 +5,8 @@
 # xprobe/xinference:latest
 # nvidia/cuda:12.2.0-devel-ubuntu22.04
 # nvcr.io/nvidia/tritonserver:24.12-trtllm-python-py3
-livekit/livekit-server:latest
+# livekit/livekit-server:latest
+stepfun2025/vllm:step-audio-2-v20250909
 
 # dify
 #langgenius/dify-api:0.7.3
